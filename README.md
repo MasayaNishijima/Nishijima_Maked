@@ -53,18 +53,29 @@ __『C PUZZLE BOOK』__(Alan R. Feuer 1982)を利用した、コーディング�
 ## 3. 触れたことのある言語・環境等まとめ
 ##### プログラミング言語
 __好んで使用する言語:__ C言語, R言語
+
 __使用経験のある言語__ C++, Python, Armアセンブラ言語, シェルスクリプト, バッチファイル
+
 ##### 開発環境
 __OS:__ Windows10, Ubuntu (Desktop, Server), ElementaryOSなど
+
 __エディタ:__ VS code, Sakuraエディタ, nanoエディタ
+
 __日本語入力:__ SKK日本語入力FEP, Fcitx-SKK
+
 __バージョン管理:__ GitHub
+
 __実行環境:__ Docker, VM virtualBox, VMware Player, ConohaVPS
+
 ##### デザイン系(最低限の操作ができる程度)
 __遷移図等の作成:__ Draw.io
+
 __動画編集:__ Aviutil
+
 __3DCG:__ Blender
+
 __画像編集:__ GIMP
+
 __DAW(MIDIベタ打ちのみ):__ LMMS
 
 ____

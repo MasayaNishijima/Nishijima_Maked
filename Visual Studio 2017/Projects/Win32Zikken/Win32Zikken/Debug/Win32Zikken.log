@@ -1,0 +1,2 @@
+﻿  Source.cpp
+e:\users\masamin\documents\visual studio 2017\projects\win32zikken\win32zikken\source.cpp(1): fatal error C1083: include ファイルを開けません。'stdafx.h':No such file or directory

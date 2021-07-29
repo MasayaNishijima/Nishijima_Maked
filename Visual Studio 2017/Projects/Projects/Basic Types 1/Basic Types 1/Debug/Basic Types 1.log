@@ -1,0 +1,4 @@
+﻿  MainProgrem.c
+e:\users\masamin\documents\visual studio 2015\projects\basic types 1\basic types 1\mainprogrem.c(10): warning C4477: 'printf' : 書式文字列 '%d' には、型 'int' の引数が必要ですが、可変個引数 1 は型 'char *' です
+  Basic Types 1.vcxproj -> E:\Users\masamin\Documents\Visual Studio 2015\Projects\Basic Types 1\Debug\Basic Types 1.exe
+  Basic Types 1.vcxproj -> E:\Users\masamin\Documents\Visual Studio 2015\Projects\Basic Types 1\Debug\Basic Types 1.pdb (Full PDB)

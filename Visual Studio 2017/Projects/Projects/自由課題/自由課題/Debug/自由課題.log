@@ -1,0 +1,4 @@
+﻿  main.c
+e:\users\masamin\documents\visual studio 2015\projects\自由課題\自由課題\main.c(8): warning C4133: '関数': 'int *' と 'const char *const ' の間で型に互換性がありません。
+e:\users\masamin\documents\visual studio 2015\projects\自由課題\自由課題\main.c(8): error C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(2254): note: 'sscanf' の宣言を確認してください

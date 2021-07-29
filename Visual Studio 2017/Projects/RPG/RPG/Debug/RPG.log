@@ -1,0 +1,29 @@
+﻿  Source.c
+e:\users\masamin\documents\visual studio 2017\projects\rpg\rpg\battlealgorithm.h(15): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\stdio.h(1269): note: 'scanf' の宣言を確認してください
+e:\users\masamin\documents\visual studio 2017\projects\rpg\rpg\battlealgorithm.h(21): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\stdio.h(1269): note: 'scanf' の宣言を確認してください
+e:\users\masamin\documents\visual studio 2017\projects\rpg\rpg\battlealgorithm.h(50): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\stdio.h(1269): note: 'scanf' の宣言を確認してください
+e:\users\masamin\documents\visual studio 2017\projects\rpg\rpg\battlealgorithm.h(56): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\stdio.h(1269): note: 'scanf' の宣言を確認してください
+e:\users\masamin\documents\visual studio 2017\projects\rpg\rpg\battlealgorithm.h(84): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\stdio.h(1269): note: 'scanf' の宣言を確認してください
+e:\users\masamin\documents\visual studio 2017\projects\rpg\rpg\battlealgorithm.h(90): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\stdio.h(1269): note: 'scanf' の宣言を確認してください
+e:\users\masamin\documents\visual studio 2017\projects\rpg\rpg\source.c(29): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\stdio.h(1269): note: 'scanf' の宣言を確認してください
+e:\users\masamin\documents\visual studio 2017\projects\rpg\rpg\source.c(33): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\stdio.h(1269): note: 'scanf' の宣言を確認してください
+e:\users\masamin\documents\visual studio 2017\projects\rpg\rpg\source.c(35): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\stdio.h(1269): note: 'scanf' の宣言を確認してください
+e:\users\masamin\documents\visual studio 2017\projects\rpg\rpg\source.c(37): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\stdio.h(1269): note: 'scanf' の宣言を確認してください
+e:\users\masamin\documents\visual studio 2017\projects\rpg\rpg\source.c(60): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\stdio.h(1269): note: 'scanf' の宣言を確認してください
+e:\users\masamin\documents\visual studio 2017\projects\rpg\rpg\source.c(75): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\stdio.h(1269): note: 'scanf' の宣言を確認してください
+e:\users\masamin\documents\visual studio 2017\projects\rpg\rpg\source.c(111): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\stdio.h(1269): note: 'scanf' の宣言を確認してください
+  RPG.vcxproj -> e:\Users\masamin\documents\visual studio 2017\Projects\RPG\Debug\RPG.exe
+  RPG.vcxproj -> e:\Users\masamin\documents\visual studio 2017\Projects\RPG\Debug\RPG.pdb (Partial PDB)

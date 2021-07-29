@@ -1,0 +1,7 @@
+﻿  Main.c
+e:\users\masamin\documents\visual studio 2015\projects\0201授業\0201授業\main.c(16): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 'scanf' の宣言を確認してください
+e:\users\masamin\documents\visual studio 2015\projects\0201授業\0201授業\main.c(17): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 'scanf' の宣言を確認してください
+  0201授業.vcxproj -> e:\users\masamin\documents\visual studio 2015\Projects\0201授業\Debug\0201授業.exe
+  0201授業.vcxproj -> e:\users\masamin\documents\visual studio 2015\Projects\0201授業\Debug\0201授業.pdb (Full PDB)

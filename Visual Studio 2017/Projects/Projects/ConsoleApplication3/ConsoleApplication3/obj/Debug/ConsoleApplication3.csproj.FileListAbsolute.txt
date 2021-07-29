@@ -1,0 +1,6 @@
+e:\users\masamin\documents\visual studio 2015\Projects\ConsoleApplication3\ConsoleApplication3\bin\Debug\ConsoleApplication3.exe.config
+e:\users\masamin\documents\visual studio 2015\Projects\ConsoleApplication3\ConsoleApplication3\bin\Debug\ConsoleApplication3.exe
+e:\users\masamin\documents\visual studio 2015\Projects\ConsoleApplication3\ConsoleApplication3\bin\Debug\ConsoleApplication3.pdb
+e:\users\masamin\documents\visual studio 2015\Projects\ConsoleApplication3\ConsoleApplication3\obj\Debug\ConsoleApplication3.csprojResolveAssemblyReference.cache
+e:\users\masamin\documents\visual studio 2015\Projects\ConsoleApplication3\ConsoleApplication3\obj\Debug\ConsoleApplication3.exe
+e:\users\masamin\documents\visual studio 2015\Projects\ConsoleApplication3\ConsoleApplication3\obj\Debug\ConsoleApplication3.pdb

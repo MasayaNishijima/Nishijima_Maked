@@ -1,0 +1,4 @@
+﻿  renerse02.c
+f:\users\masamin\documents\visual studio 2015\projects\reverse02\reverse02\renerse02.c(19): error C2039: 'previous': is not a member of 'data'
+  f:\users\masamin\documents\visual studio 2015\projects\reverse02\reverse02\renerse02.c(4): note: see declaration of 'data'
+f:\users\masamin\documents\visual studio 2015\projects\reverse02\reverse02\renerse02.c(19): error C2065: 'previos': undeclared identifier

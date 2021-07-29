@@ -1,0 +1,6 @@
+e:\users\masamin\documents\visual studio 2015\Projects\MonoSecond\MonoSecond\bin\Debug\MonoSecond.exe.config
+e:\users\masamin\documents\visual studio 2015\Projects\MonoSecond\MonoSecond\bin\Debug\MonoSecond.exe
+e:\users\masamin\documents\visual studio 2015\Projects\MonoSecond\MonoSecond\bin\Debug\MonoSecond.pdb
+e:\users\masamin\documents\visual studio 2015\Projects\MonoSecond\MonoSecond\obj\Debug\MonoSecond.csprojResolveAssemblyReference.cache
+e:\users\masamin\documents\visual studio 2015\Projects\MonoSecond\MonoSecond\obj\Debug\MonoSecond.exe
+e:\users\masamin\documents\visual studio 2015\Projects\MonoSecond\MonoSecond\obj\Debug\MonoSecond.pdb
